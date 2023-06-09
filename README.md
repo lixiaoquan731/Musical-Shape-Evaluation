@@ -9,11 +9,11 @@ Download the demo dataset from https://zenodo.org/record/8021695
 Extract all the files in the zip file and put them in the Data folder.
 The directory should be like this:
 Main folder
-├── SRNN-v1.py
-├── config_SRNN.py
-├── utils.py
-├── Data
-│   ├── Train10
-│   ├── Test10
-│   ├── train_data10.xlsx
-│   ├── test_data10.xlsx
+├── SRNN-v1.py	
+├── config_SRNN.py	
+├── utils.py	
+├── Data	
+│   ├── Train10	
+│   ├── Test10	
+│   ├── train_data10.xlsx	
+│   ├── test_data10.xlsx	
