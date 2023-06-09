@@ -1,2 +1,3 @@
 # Musical Shape Evaluation 2023
-Code and dataset will be released very soon
+Python 3.8
+pytorch 1.12.1
